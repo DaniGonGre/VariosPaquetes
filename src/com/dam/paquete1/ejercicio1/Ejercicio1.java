@@ -1,4 +1,4 @@
-package com.dam.ejercicio1.ejercicio1;
+package com.dam.paquete1.ejercicio1;
 
 public class Ejercicio1 {
     public static void main(String[] args) {
